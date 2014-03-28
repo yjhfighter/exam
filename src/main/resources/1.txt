@@ -1,0 +1,22 @@
+单位换算
+
+1m<sup>3</sup> = $cm<sup>3</sup>
+1000000
+1cm = $m
+0.01
+1cm = $m
+0.01
+1m = $cm
+100
+1m<sup>3</sup> = $dm<sup>3</sup>
+1000
+1cm<sup>3</sup> = $dm<sup>3</sup>
+0.001
+1dm = $cm
+10
+1dm<sup>3</sup> = $m<sup>3</sup>
+0.001
+1m = $dm
+10
+1cm<sup>3</sup> = $m<sup>3</sup>
+0.000001
